@@ -1,1 +1,2 @@
 Reset this file is something like git crash.
+Haha,make
